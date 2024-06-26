@@ -48,7 +48,7 @@ public class OrdenacaoNumeros {
     }
 
     public static void main(String[] args) {
-        
+
         OrdenacaoNumeros numeros = new OrdenacaoNumeros();
 
         numeros.adicionarNumero(2);
